@@ -28,4 +28,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.F_NAME }}/farhan_CICD:latest
+          tags: ${{ secrets.F_NAME }}/farhan_cicd:latest
